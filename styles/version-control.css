@@ -25,6 +25,7 @@ body {
 }
 
 .git-commands {
+    color:rgb(167, 136, 94);
     margin: 24px;
     display: grid;
     gap: 16px;
